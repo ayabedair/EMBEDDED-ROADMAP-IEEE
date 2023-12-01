@@ -2,55 +2,56 @@
 
 ## Week 3: C Basics
 
-### Video Summary
+### Video Overview
 
-Welcome to Week 3 of our Embedded Systems Committee, focusing on C Basics. In this week's video [C Basics](https://youtu.be/gvA3MGSgalU?si=7Mzbe_qxeDXrREYp), we explore fundamental concepts essential for understanding and programming in the C language. Here's a summary of the topics covered:
+This week, our focus shifts to the fundamentals of C programming. The following videos have been selected for study:
 
-1. **Comments in C Language:**
-   - Explanation of single-line and multi-line comments in C programming for code documentation and readability.
+1. [Video 1](https://youtu.be/gvA3MGSgalU?si=7Mzbe_qxeDXrREYp)
+2. [Video 2](https://youtu.be/Xt79bGH_NH0?si=jyWGTMCiZ_pqQfgq)
+3. [Video 3](https://youtu.be/auGvwQHUvlY?si=iP6nWall-5RYYTN5)
 
-2. **Escape Sequences:**
-   - Introduction to escape sequences in C, which are special characters used to format output, control cursor movements, and include special characters in strings.
+### Topics Covered in the Videos
 
-3. **Variables and Assignment in C:**
-   - Understanding how variables are declared and assigned values in C, emphasizing the importance of data types.
+1. Comments in C Language
+2. Escape Sequences
+3. Variables and Assignment in C
+4. Variable Naming Rules
+5. Data Types in C
+6. Primitive/Basic Data Types
+7. 1’s & 2’s Complement
+8. Endianness
+9. Input and Output Values - `scanf` and `printf`
+10. Format Specifiers in C
+11. ASCII Code
+12. Operators in C
+    - Arithmetic Operators (Unary & Binary)
+    - Conversion Types (Implicit/Promotion & Explicit/Type Casting)
+    - Assignment Operators
+    - Relational Operators
+    - Logical Operators
+    - Bitwise Operators
+    - How to (Set & Clear & Toggle) a Specific Bit in Register?
 
-4. **Variable Naming Rules:**
-   - Rules and conventions for naming variables in C, promoting clarity and consistency in code.
+### Recommended Practice Problems
 
-5. **Data Types in C:**
-   - Overview of data types in C, including primitive/basic data types, and their role in defining the type of data a variable can hold.
+1. [CodeForWin](https://codeforwin.org/c-programming/basic-programming-practice-problems)
+   - Solve Problems: 3, 4, 5, 6, 7, 8, 10, 11, 12, 16
 
-6. **Primitive/Basic Data Types:**
-   - Detailed exploration of basic data types such as int, float, double, and char in C programming.
-
-7. **1’s & 2’s Complement:**
-   - Explanation of 1's and 2's complement representation, important in understanding binary arithmetic and data storage in computers.
-
-8. **Endianness:**
-   - Discussion on endianness, addressing how multi-byte data is stored in computer memory and the implications for system compatibility.
-
-### Assigned Problems
-
-#### Problem Sets:
-- [CodeForWin Basic Programming Practice Problems](https://codeforwin.org/c-programming/basic-programming-practice-problems)
-- [HackerRank Hello World in C](https://www.hackerrank.com/challenges/hello-world-c?isFullScreen=true)
-- [HackerRank Playing with Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem?isFullScreen=true)
+2. [HackerRank](https://www.hackerrank.com/challenges/hello-world-c?isFullScreen=true)
+   - Solve Problems: [Hello World in C](https://www.hackerrank.com/challenges/hello-world-c?isFullScreen=true)
+   - Solve Problems: [Playing with Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem?isFullScreen=true)
 
 ### Additional Tasks
 
-1. **Study Additional Videos:**
-   - Watch Videos 3 → 10 & 19 & 21 → 34 from Neso, or Videos 5 to 26 from Jenny. These videos will deepen your understanding of C programming.
+- **Watch Neso Videos:** Study Videos 3 → 10 & 19 & 21 → 34 from Neso for a deeper understanding of the covered topics.
 
-2. **Solve Practice Problems:**
-   - Solve the specified problems to reinforce your understanding of C basics and bitwise operators.
+OR
 
-   **Basic C Problems:**
-   - 3, 4, 5, 6, 7, 8, 10, 11, 12, 16.
+- **Watch Jenny Videos:** Alternatively, watch Videos 5 to 26 from Jenny's series for a different perspective.
 
-   **Bitwise Operators Problems:**
-   - 1, 2, 3, 4, 5, 6, 11, 16.
+### Submission
 
-### Next Meeting Agenda
+- Document your solutions to the recommended problems.
+- Prepare questions or points for discussion based on the studied videos.
 
-Prepare questions or discuss challenges faced during problem-solving. This will be an interactive session to enhance understanding and collaboration within the committee.
+By the end of this week, the committee members should have a solid grasp of C basics and be ready to tackle more advanced topics in the upcoming sessions. Happy learning!

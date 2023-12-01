@@ -1,5 +1,5 @@
 <div style="display: flex;align-items:center;">
-  <div><img src="Resources/Embedded_System_Intro_Types_Applications_Architecture_and_Examples.jpg" width="100%"/></div>
+  <div><img src="Resources/ieee_mancsc.jpg" width="100%"/></div>
 </div>
 
 # A Road Map For Embedded Systems

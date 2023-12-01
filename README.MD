@@ -6,10 +6,13 @@
 
 >This roadmap was created for the Embedded Systems committee in ***IEEE Mansoura Computer Society Chapter*** Hello and welcome to the README.md file of the student activity led by me, the Head of Embedded Systems. In this activity, we will explore the fascinating world of embedded systems, which are devices that combine hardware and software to perform specific functions. Embedded systems are everywhere, from smartphones to cars to robots. If you are interested in learning how to design, program, and debug embedded systems, this activity is for you!
 
-
+<div style="display: flex;align-items:center;">
+  <div><img src="Resources/Roadmap.png" width="100%"/></div>
+</div>
 ## Objectives:
 
 >The main goal for this road map is to prepare committee members to be able to work as Embedded Software Engineer either in a company or as a freelancer
+
 
 ## Levels:
 

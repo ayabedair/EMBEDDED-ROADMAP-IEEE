@@ -35,17 +35,19 @@
 - Learning C programming language Syntax
 - Solving many programming problems using C language
 ### Weeks
-- [Week1:](Weeks/Week1.md) Introduction to Embedded Systems - Part1
-- [Week2:](Weeks/Week2.md) Introduction to Embedded Systems - Part2
+- [Week1:](Weeks/Week1.md) Learn about Version Control (GitHub)
+- [Week2:](Weeks/Week2.md) Introduction to Embedded Systems and C Programming
+- [Week3:](Weeks/Week3.md) C basics
 - [**Second Offline Meeting**](Weeks/2nd%20Offline%20Meeting.md)
-- [Week3:](Weeks/Week3.md) C Basics
 - [Week4:](Weeks/Week4.md) Conditional & Loop Statements 
 - [Week5:](Weeks/Week5.md) Mini Project 1
 - [Week6:](Weeks/Week6.md) Functions
-- [Week7:](Weeks/Week7.md) Arrays
-- [Week8:](Weeks/Week8.md) Mini Project 2
-- [Week9:](Weeks/Week9.md) Strings
-- [Week10:](Weeks/Week10.md) Pointers
+- [Week7:](Weeks/Week7.md) Pointers
+- [**Third Offline Meeting**]
+- [Week8:](Weeks/Week8.md) Arrays
+- [Week9:](Weeks/Week9.md) Mini Project 2
+- [Week10:](Weeks/Week10.md) Strings
+- [**Fourth Offline Meeting**]
 - [Week11:](Weeks/Week11.md) User-Defined Data Types
 
 #### Final Project

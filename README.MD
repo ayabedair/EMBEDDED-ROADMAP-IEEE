@@ -9,6 +9,7 @@
 <div style="display: flex;align-items:center;">
   <div><img src="Resources/Roadmap.png" width="100%"/></div>
 </div>
+
 ## Objectives:
 
 >The main goal for this road map is to prepare committee members to be able to work as Embedded Software Engineer either in a company or as a freelancer
@@ -18,8 +19,8 @@
 
 
 - Beginner : Introduction to Embedded Systems & C Language
-- Intermediate: Data Structure & Embedded C
-- Advanced: Interfacing
+- Intermediate: Data Structure & Embedded C ,In this phase, we will move on to interfacing and writing firmware for 8-bit microcontrollers (MCUs), such as AVR and PIC. These are small and low-cost chips that can control sensors, actuators, displays, and other peripherals. We will learn how to use various communication protocols, such as UART, SPI, and I2C, to connect our MCUs to external devices. We will also learn how to use timers, interrupts, and ADCs to handle timing and analog signals.
+- Advanced: Interfacing,In this phase, we will tackle more complex and powerful MCUs, such as ARM architectures. These are 32-bit processors that can run operating systems and support multitasking and networking. We will learn how to use FreeRTOS, a real-time operating system (RTOS) that can manage multiple tasks and resources efficiently. We will also implement some projects on embedded systems, such as a smart home system or a robotic arm.
 
 ## Beginner : Introduction to Embedded Systems & C Language
 <div style="display: flex;align-items:center;">

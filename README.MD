@@ -4,7 +4,7 @@
 
 # A Road Map For Embedded Systems
 
->This roadmap was created for the Embedded Systems committee in ***IEEE Mansoura Computer Society Chapter*** by Mahmoud Essam Mahfouz, head of the committee. I hope you get the most benefit from it.
+>This roadmap was created for the Embedded Systems committee in ***IEEE Mansoura Computer Society Chapter*** Hello and welcome to the README.md file of the student activity led by me, the Head of Embedded Systems. In this activity, we will explore the fascinating world of embedded systems, which are devices that combine hardware and software to perform specific functions. Embedded systems are everywhere, from smartphones to cars to robots. If you are interested in learning how to design, program, and debug embedded systems, this activity is for you!
 
 
 ## Objectives:

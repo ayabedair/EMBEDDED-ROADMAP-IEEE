@@ -63,11 +63,10 @@
 - Learning how to use C in Embedded (Embedded C)
 
 ### Weeks: 
-- [Week14:](Weeks/Week14.md) Stack Array Based 
-- [Week15:](Weeks/Week15.md) Linked List & Queue
-- [Week16:](Weeks/Week16.md) Data Structure Project
-- [Week17:](Weeks/Week17.md) Embedded C - Part1
-- [Week18:](Weeks/Week18.md) Embedded C - Part2
+- [Week12:](Weeks/Week12.md) C Programming and Embedded Systems 
+- [Week13&14:](Weeks/Week13.md) Offline Session
+- [Week15:](Weeks/Week15.md) Stack Array Based
+- [Week16:](Weeks/Week16.md) Linked List & Queue - Data Structure Project (Student Data Base)
 
 ## Advanced : Interfacing
 <div style="display: flex;align-items:center;">

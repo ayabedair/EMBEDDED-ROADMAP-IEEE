@@ -1,4 +1,4 @@
-# Week 13: Offline Session README
+# Week 13: Offline Session
 
 ## Table of Contents
 1. [Introduction](#introduction)

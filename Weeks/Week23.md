@@ -1,27 +1,37 @@
 # IEEE Student Activity: Week 23
 
-## Content Overview
-
-This week's IEEE student activity focuses on various aspects of LED interfacing, sink and source connections for LEDs (Active LOW & HIGH), DC characteristics, AMR (Absolute Max Ratings), layered architecture for bare-metal software, Seven Segment Display (SSD), LED/Buzzer (BUZ) drivers, SSD driver, and SSD multiplexing (POV).
+## Content
+This week's IEEE student activity focuses on various aspects of LED interfacing, sink and source connections for LEDs, DC characteristics, layered architecture for bare-metal software, seven-segment displays, LED and buzzer drivers, SSD multiplexing, types of switches, switch connections, pull-up resistors vs pull-down resistors, switch bouncing, debouncing solutions, electrical switches, diodes, transistors, optocouplers, relays, and Darlington pairs.
 
 ### Topics Covered:
-
-1. **LED Interfacing:** Understanding how to interface LEDs with microcontrollers or other electronic devices.
-2. **Sink & Source Connections for LED (Active LOW & HIGH):** Exploring different configurations for connecting LEDs, whether they are active low or active high.
-3. **DC Characteristics (I/O Voltage Levels):** Understanding the DC characteristics of digital input/output pins, including voltage levels.
-4. **AMR (Absolute Max Ratings):** Learning about the absolute maximum ratings that should not be exceeded to prevent damage to electronic components.
-5. **Layered Architecture For Bare-Metal SW:** Understanding the layered architecture for developing software on bare-metal systems, without an operating system.
-6. **Seven Segment Display (SSD):** Introduction to seven-segment displays and their applications.
-7. **LED/BUZ Drivers:** Implementing drivers for LEDs and buzzers to control their behavior.
-8. **SSD Driver:** Developing a driver for a seven-segment display to facilitate its integration with a microcontroller.
-9. **SSD Multiplexing (POV):** Exploring the concept of multiplexing with a seven-segment display, particularly for persistence of vision (POV) applications.
-
-## Resources
-
-- [Video 1: LED Interfacing](https://youtu.be/zWkr8-Pf4bk?si=Cpthr5wz68nkM6iC)
-- [Video 2: Seven Segment Display Multiplexing](https://youtu.be/9UKL7S9JYJk?si=LBON3bfh3qlEWd2-)
+- **LED Interfacing:** Understanding how to interface LEDs with microcontrollers.
+- **Sink & Source Connections for LED:** Learning about active LOW and HIGH connections for LEDs.
+- **DC Characteristics:** Exploring input/output voltage levels.
+- **AMR (Absolute Max Ratings):** Understanding the absolute maximum ratings for components.
+- **Layered Architecture for Bare-Metal Software:** Studying the layered architecture for programming without an operating system.
+- **Seven Segment Display (SSD):** Understanding the basics of seven-segment displays.
+- **LED/BUZ Drivers:** Implementing drivers for LEDs and buzzers.
+- **SSD Driver:** Implementing drivers for seven-segment displays.
+- **SSD Multiplexing (POV):** Exploring persistence of vision through SSD multiplexing.
+- **Types of Switches:** Learning about different types of switches.
+- **Mechanical Switches:** Understanding mechanical switch components and operation.
+- **SW Connections:** Exploring software connections for switches.
+- **Pull-Up Res vs Pull-Down Res:** Understanding the differences between pull-up and pull-down resistors.
+- **Internal Pull-Up at ATMEGA32:** Implementing internal pull-up resistors in ATMEGA32 microcontroller.
+- **Switch Driver:** Developing drivers for switches.
+- **SW Bouncing:** Understanding switch bouncing phenomenon.
+- **Debouncing Solutions (HW & SW):** Implementing hardware and software solutions for switch debouncing.
+- **Electrical Switches (Advantages & Types):** Exploring advantages and types of electrical switches.
+- **Diode & Transistor:** Understanding diodes and transistors and their applications.
+- **Optocoupler:** Studying optocouplers and their usage.
+- **Relay:** Understanding relay components and applications.
+- **Darlington Pair:** Exploring Darlington pair configuration and its advantages.
 
 ## Task
+1. Watch the provided videos to gain a better understanding of the covered topics.
+   - [Video 1](https://youtu.be/zWkr8-Pf4bk?si=Cpthr5wz68nkM6iC)
+   - [Video 2](https://youtu.be/9UKL7S9JYJk?si=LBON3bfh3qlEWd2-)
+   - [Video 3](https://youtu.be/P_GuogpwMUs?si=CG3qaqZFFTnhHWc9)
+   - [Video 4](https://youtu.be/mvnQc115gl4?si=1GpKIYoZ_kclR0c_)
 
-1. **Study Videos:** Watch the provided videos to gain a comprehensive understanding of the covered topics.
-2. **Implement Drivers:** Implement drivers for LEDs, buzzers, and seven-segment displays as per the concepts discussed in the videos.
+2. Implement drivers for the discussed components as part of your learning process.

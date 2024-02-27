@@ -1,4 +1,4 @@
-# IEEE Student Activity: Week 20
+# IEEE Student Activity: Week 21
 
 Welcome to Week 20 of the IEEE Student Activity! This week, we will delve into the fascinating realm of Microcontroller Unit (MCU) Interrupts. Below, you'll find a comprehensive overview of the topics we'll be covering.
 

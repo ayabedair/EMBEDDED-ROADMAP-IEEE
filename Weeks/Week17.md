@@ -3,11 +3,11 @@
 Welcome to Week 17 of the IEEE Student Activity! This week, we'll be diving into the topic of queues. We have curated a set of educational videos to help you grasp the concepts effectively. You can find the content [here](https://www.youtube.com/watch?v=cGgzFPRLl4o&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca&index=1).
 
 ## Task Overview
-1. **Study Videos**: Watch videos 10 and 11 from the provided playlist. These videos will provide you with a solid understanding of the queue data structure and its implementation.
+1. **Study Videos**: Watch videos 11, 12 and 16 from the provided his [playlist](https://www.youtube.com/playlist?list=PLEBRPBUkZ4mb6lVqSLRQ7mvSFRcoR7-XV). These videos will provide you with a solid understanding of the queue data structure and its implementation.
 2. **Implement Code for Stack**: After studying the videos, your task is to implement code for a queue data structure. You can choose your preferred programming language for this task.
 
 ## Resources
-- [Week 17 Queue Content Video Playlist](https://www.youtube.com/watch?v=cGgzFPRLl4o&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca&index=1): This playlist contains educational videos specifically curated for understanding queues.
+- [Data Structures In C](https://www.youtube.com/playlist?list=PLEBRPBUkZ4mb6lVqSLRQ7mvSFRcoR7-XV): This playlist contains educational videos about data structure in C.
 
 ## Guidelines for Task Completion
 1. **Study Videos Thoroughly**: Take your time to understand the concepts presented in videos 10 and 11. Pay attention to the explanations and examples provided.

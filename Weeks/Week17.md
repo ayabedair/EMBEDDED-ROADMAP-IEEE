@@ -1,6 +1,6 @@
 # IEEE Student Activity Week 17: Queue Content
 
-Welcome to Week 17 of the IEEE Student Activity! This week, we'll be diving into the topic of queues. We have curated a set of educational videos to help you grasp the concepts effectively. You can find the content [here](https://www.youtube.com/watch?v=cGgzFPRLl4o&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca&index=1).
+Welcome to Week 17 of the IEEE Student Activity! This week, we'll be diving into the topic of queues. We have curated a set of educational videos to help you grasp the concepts effectively.
 
 ## Task Overview
 1. **Study Videos**: Watch videos 11, 12 and 16 from the provided his [playlist](https://www.youtube.com/playlist?list=PLEBRPBUkZ4mb6lVqSLRQ7mvSFRcoR7-XV). These videos will provide you with a solid understanding of the queue data structure and its implementation.

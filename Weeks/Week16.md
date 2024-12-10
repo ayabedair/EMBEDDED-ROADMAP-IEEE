@@ -1,6 +1,6 @@
 # IEEE Student Activity: Week 16 - Stack Content
 
-Welcome to Week 16 of the IEEE Student Activity! This week, we'll be diving into the fascinating world of stacks. Stacks are a fundamental data structure widely used in computer science and software engineering. They follow the Last In, First Out (LIFO) principle, meaning the last element added to the stack is the first one to be removed.
+Welcome to Week 16 of the IEEE Student Activity! This week, we'll be diving into the fascinating world of stacks. Stacks are a fundamental data structure widely used in computer science and software engineering.
 
 ## Task Overview:
 

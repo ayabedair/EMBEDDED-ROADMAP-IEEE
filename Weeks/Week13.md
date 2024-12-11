@@ -78,7 +78,11 @@ Hands-on lab to provide a practical understanding of the volatile concept in emb
 ### Lab 2: How Baremetal Software Works
 Engage in a lab session to gain insights into the functioning of baremetal software in embedded systems.
 
-## Task
+## Material
+
+- [Compilation process p1](https://youtu.be/AX8P0WWkSqU?si=TG4wZSnoBgAbakyV)
+- [Compilation process p2](https://youtu.be/t2822gYbGtM?si=10QECqmlZOTrLK-S)
+- [Embedded C Playlist](https://www.youtube.com/playlist?list=PLR-WDZsV9pQhsJsPn6nETpICM5m3rat5S) 
 
 ### Summary
 As we wrap up this week's content, be prepared to discuss and summarize the key takeaways during the next session. Ensure a solid understanding of optimization techniques, the volatile type qualifier, booting sequences, linker scripts, memory alignment, and practical application through the labs. We look forward to your active participation in the upcoming session!

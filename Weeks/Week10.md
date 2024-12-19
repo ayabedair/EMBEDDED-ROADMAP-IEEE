@@ -1,42 +1,40 @@
-# IEEE Student Activity - Embedded Systems Committee
-
 ## Week 10: Strings
 
-### Video Overview
+Welcome to this week! In this task, we'll be diving into the concept of **strings** in C programming.
 
-In Week 10, our focus is on Strings in C programming. The following video has been selected for study:
+## 📖 Overview
 
-- [Video](https://youtu.be/sV38pLKb7Gs?si=w208dLS9dGGH8n6e)
+In Week 10, our focus is on **Strings** in C programming. We will discuss the main concepts.
 
-### Topics Covered in the Video
+### Topics
 
-1. Strings in C
+1. **Strings in C**
    - String Declaration and Initialization
    - Accessing Strings
    - String Letters Notes
    - Pointer with String
 
-2. Standard String Functions
+2. **Standard String Functions**
    - `string.h` Functions: `strcpy`, `strcmp`, `strcat`, `strlen`, `strlwr`, `strupr`, ...
 
-3. Standard Library Functions
+3. **Standard Library Functions**
    - `stdlib.h` Functions: `atoi`, `atof`
 
-### Recommended Practice Problems
+## 📚 Resources
 
-1. [CodeForWin](https://codeforwin.org/c-programming/basic-programming-practice-problems)
-   - Solve String Exercises Problems: 1, 2, 3, 4, 6, 7, 8, 11, 12, 14, 15, 16, 20, 23, 28, 35.
+1. [Video](https://youtu.be/sV38pLKb7Gs?si=w208dLS9dGGH8n6e)
 
-2. [HackerRank](https://www.hackerrank.com/challenges/printing-tokens-/problem?isFullScreen=true)
-   - Solve Problems: [Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-/problem?isFullScreen=true)
-
-### Additional Tasks
+#### Additional Resources
 
 - **Watch Playlist:** Study Videos 128 → 147 from the [C programming playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) for a deeper understanding of the covered topics.
 
-### Submission
+## 📝 Task
 
-- Document your solutions to the recommended problems.
-- Prepare questions or points for discussion based on the studied video.
+1. [Codeforces](https://codeforces.com/group/MWSDmqGsZm/contest/219856)
+   - Solve String Problems: E, G, I, O, R
 
-Strings are fundamental in programming, and understanding their manipulation is crucial. Ensure you grasp the concepts well and apply them to solve the provided problems. Happy coding!
+#### Additional practice:
+
+- You may check [w3resource](https://www.w3resource.com/c-programming-exercises/string/index.php) for some coding practice about strings in C.
+
+Make sure to fully understand the content of the videos. If you have any questions, feel free to reach out and ask!

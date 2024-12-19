@@ -1,18 +1,12 @@
-# IEEE Student Activity - Embedded Systems Committee
-
 ## Week 11: User-Defined Data Types
 
-### Task Overview
+Welcome to this week! In this task, we'll be diving into **User-Defined Data Types** in C programming.
 
-Welcome to Week 11! This week's focus is on User-Defined Data Types in C programming. The following topics will be covered:
+## 📖 Overview
 
-### Video Overview
+In Week 11, our focus is on **User-Defined Data Types** in C programming. We will discuss the main concepts.
 
-- [Video 1](https://youtu.be/T-XBOhyd3aM?si=pPcDuIevSGLXrLSr)
-- [Video 2](https://youtu.be/E3mbfmdGZOk?si=TlgREaZuQ3I0GKEY)
-- [Video 3](https://youtu.be/bXs9xZm3ZxI?si=aE9hACb6LjxHF4YH)
-
-### Topics Covered in the Videos
+### Topics
 
 1. **Structures:**
    - Structure Notes
@@ -34,7 +28,17 @@ Welcome to Week 11! This week's focus is on User-Defined Data Types in C program
    - Union in C
    - Union Tricks
 
-### Recommended Practice Problems
+## 📚 Resources
+
+1. [Video 1](https://youtu.be/T-XBOhyd3aM?si=pPcDuIevSGLXrLSr)
+2. [Video 2](https://youtu.be/E3mbfmdGZOk?si=TlgREaZuQ3I0GKEY)
+3. [Video 3](https://youtu.be/bXs9xZm3ZxI?si=aE9hACb6LjxHF4YH)
+
+#### Additional Resources
+
+- **Watch Playlist:** Study the videos from the [C programming playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) for a deeper understanding of the covered topics.
+
+## 📝 Task
 
 1. [HackerRank](https://www.hackerrank.com/challenges/too-high-boxes?isFullScreen=true)
    - Solve Problems: [Too High Boxes](https://www.hackerrank.com/challenges/too-high-boxes?isFullScreen=true)
@@ -48,11 +52,4 @@ Welcome to Week 11! This week's focus is on User-Defined Data Types in C program
 4. [HackerRank](https://www.hackerrank.com/challenges/post-transition?isFullScreen=true)
    - Solve Problems: [Post Transition](https://www.hackerrank.com/challenges/post-transition?isFullScreen=true)
 
-### Additional Resources
-
-- **Watch Playlist:** Study the videos from [C programming playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) for a deeper understanding of the covered topics.
-
-### Submission
-
-- Document your solutions to the recommended problems.
-- Prepare questions or points for discussion based on the studied videos.
+Make sure to fully understand the content of the videos. If you have any questions, feel free to reach out and ask!

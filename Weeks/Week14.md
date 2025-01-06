@@ -29,7 +29,7 @@ In Week 14, our focus is on **Stacks**. We will cover their implementation, oper
 
 ## 📚 Resources
 
-1. [Data Structures In Arabic Using C](https://www.youtube.com/playlist?list=PLEBRPBUkZ4mb6lVqSLRQ7mvSFRcoR7-XV) videos from 2 to 8
+1. [Data Structures In Arabic Using C](https://www.youtube.com/playlist?list=PLEBRPBUkZ4mb6lVqSLRQ7mvSFRcoR7-XV) videos 3 & 4 & 5 & 6 & 7 & 8 & 14 & 15
 
 ## 📝 Task
 

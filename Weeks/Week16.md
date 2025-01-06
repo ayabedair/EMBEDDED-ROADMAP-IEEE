@@ -1,17 +1,37 @@
-# IEEE Student Activity: Week 16 - Stack Content
+# Week 16: Queue
 
-Welcome to Week 16 of the IEEE Student Activity! This week, we'll be diving into the fascinating world of stacks. Stacks are a fundamental data structure widely used in computer science and software engineering.
+Welcome to Week 16 of the IEEE Student Activity! This week, we'll be focusing on learning about **Queues**. Queues are one of the fundamental data structures in computer science and are widely used in various applications, including scheduling, buffering, and more.
 
-## Task Overview:
+## 📖 Overview
 
-1. **Watch Videos**: 
-   - To get started, watch this playlist [Stacks | Chapter-6 | Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgWh1emltdMOz8O2m5X3YYn). These videos will provide you with a solid understanding of stacks, their operations, and implementations.
+In Week 16, our focus is on **Queues**. We will cover their implementation, operations, types, and applications.
 
-2. **Implement Code for Stack**:
-   - After familiarizing yourself with the concepts through the videos, it's time to get hands-on experience. Implement a stack data structure in the programming language of your choice. You can choose any language you are comfortable with, such as Python, Java, C++, etc. Make sure to include operations like push, pop, peek, isEmpty, and any additional methods you find relevant.
+### Topics
 
-## Resources:
-- [Stacks | Chapter-6 | Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgWh1emltdMOz8O2m5X3YYn)
+1. **Introduction to Queues:**
+   - What is a Queue?
+   - FIFO (First In, First Out) Principle
+   - Real-world Examples of Queues
 
-## Submission:
-- Once you have completed both tasks, submit your implementation along with any additional documentation or explanations you find necessary. You can submit your work through the designated platform or channel provided by your IEEE Student Activity organizer.
+2. **Basic Operations:**
+   - Enqueue (Insert)
+   - Dequeue (Remove)
+   - Peek (Front Element)
+
+3. **Applications:**
+   - Task Scheduling
+   - Breadth-First Search (BFS)
+   - Cache Management
+   - Data Buffering
+
+## 📚 Resources
+
+1. [Data Structures In Arabic Using C](https://www.youtube.com/playlist?list=PLEBRPBUkZ4mb6lVqSLRQ7mvSFRcoR7-XV) videos 11 & 12 & 13 & 16
+
+## 📝 Task
+
+1. **Implement Queue Code:**
+   - Write code for a queue in C. Start with simple operations like enqueue, dequeue, and peek. Explore implementing advanced types like circular queues or priority queues.
+2. **Check for additional tasks or quizes**
+
+Make sure to fully understand the content of the videos. If you have any questions, feel free to reach out and ask!

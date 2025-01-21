@@ -57,18 +57,18 @@ The advanced level dives deeper into embedded systems concepts, including MCU ar
 | Week | Topics Covered | Description | Link |
 |------|----------------|-------------|------|
 | 22   | Embedded System Concepts | Learn about embedded system architecture, memory types, and processor components. | [Week 22](./Weeks/Week22.md) |
-| 23   | MCU Clocks and Interrupts | Explore clock management, interrupt handling, and their implementation in microcontrollers. | [Week 23](./Weeks/Week23.md) |
-| 24   | GPIO and On-Chip Peripherals | Understand GPIO, input/output modes, and interfacing with peripherals like LEDs and SSDs. | [Week 24](./Weeks/Week24.md) |
-| 25   | LED, SSD, and Switch Drivers | Learn about LED, SSD, and switch interfacing, including debouncing techniques. | [Week 25](./Weeks/Week25.md) |
-| 26   | CLCD Drivers | Explore Character LCD (CLCD) interfacing and driver development. | [Week 26](./Weeks/Week26.md) |
-| 27   | PORT, Keypad, and EXTI Drivers | Learn about PORT configuration, keypad interfacing, and external interrupt handling. | [Week 27](./Weeks/Week27.md) |
-| 28   | ADC (Analog-to-Digital Converter) | Understand ADC concepts, configuration, and sensor data processing. | [Week 28](./Weeks/Week28.md) |
-| 29   | Timers | Learn about timer configurations, modes, and applications like PWM and event scheduling. | [Week 29](./Weeks/Week29.md) |
-| 30   | Introduction to Communication Protocols | Explore UART, SPI, and I2C protocols and their applications. | [Week 30](./Weeks/Week30.md) |
-| 31   | UART Communication | Dive deeper into UART configuration and implementation for serial communication. | [Week 31](./Weeks/Week31.md) |
-| 32   | SPI Communication | Learn about SPI configuration and interfacing with peripherals. | [Week 32](./Weeks/Week32.md) |
-| 33   | I2C Communication | Understand I2C configuration and its use in multi-device communication. | [Week 33](./Weeks/Week33.md) |
-| 34   | Advanced Topics | Explore advanced topics like RTOS, Embedded Linux, and IoT (coming soon). | [Week 34](./Weeks/Week34.md) |
+| 23   | Advanced Embedded System Concepts | Explore advanced topics like cache memory, FPU, MPU, MMU, and MCU architecture. | [Week 23](./Weeks/Week23.md) |
+| 24   | MCU Clocks and Interrupts | Learn about clock management, interrupt handling, and their implementation in microcontrollers. | [Week 24](./Weeks/Week24.md) |
+| 25   | GPIO and On-Chip Peripherals | Understand GPIO, input/output modes, and interfacing with peripherals like LEDs and SSDs. | [Week 25](./Weeks/Week25.md) |
+| 26   | LED, SSD, and Switch Drivers | Learn about LED, SSD, and switch interfacing, including debouncing techniques. | [Week 26](./Weeks/Week26.md) |
+| 27   | Character LCD (CLCD) Drivers | Explore CLCD interfacing and driver development. | [Week 27](./Weeks/Week27.md) |
+| 28   | PORT, Keypad, and EXTI Drivers | Learn about PORT configuration, keypad interfacing, and external interrupt handling. | [Week 28](./Weeks/Week28.md) |
+| 29   | Analog-to-Digital Converter (ADC) | Understand ADC concepts, configuration, and sensor data processing. | [Week 29](./Weeks/Week29.md) |
+| 30   | Timers | Learn about timer configurations, modes, and applications like PWM and event scheduling. | [Week 30](./Weeks/Week30.md) |
+| 31   | Introduction to Communication Protocols | Explore UART, SPI, and I2C protocols and their applications. | [Week 31](./Weeks/Week31.md) |
+| 32   | UART Communication | Dive deeper into UART configuration and implementation for serial communication. | [Week 32](./Weeks/Week32.md) |
+| 33   | SPI Communication | Learn about SPI configuration and interfacing with peripherals. | [Week 33](./Weeks/Week33.md) |
+| 34   | I2C Communication | Understand I2C configuration and its use in multi-device communication. | [Week 34](./Weeks/Week34.md) |
 
 ---
 

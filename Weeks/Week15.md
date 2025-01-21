@@ -1,10 +1,10 @@
-# Week 16: Queue
+# Week 15: Queue
 
-Welcome to Week 16 of the IEEE Student Activity! This week, we'll be focusing on learning about **Queues**. Queues are one of the fundamental data structures in computer science and are widely used in various applications, including scheduling, buffering, and more.
+Welcome to Week 15 of the IEEE Student Activity! This week, we'll be focusing on learning about **Queues**. Queues are one of the fundamental data structures in computer science and are widely used in various applications, including scheduling, buffering, and more.
 
 ## 📖 Overview
 
-In Week 16, our focus is on **Queues**. We will cover their implementation, operations, types, and applications.
+In Week 15, our focus is on **Queues**. We will cover their implementation, operations, types, and applications.
 
 ### Topics
 

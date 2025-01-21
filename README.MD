@@ -1,91 +1,71 @@
-<div style="display: flex;align-items:center;">
-  <div><img src="Resources/ieee_mancsc.jpg" width="100%"/></div>
-</div>
+# Embedded Systems Roadmap
 
-# A Road Map For Embedded Systems
+This repository provides a structured roadmap for learning Embedded Systems, divided into three levels: **Beginner**, **Intermediate**, and **Advanced**. Each level is broken down into weeks, with clear goals and topics to cover. Click on the links below to navigate to the specific week's content.
 
->This roadmap was created for the Embedded Systems committee in ***IEEE Mansoura Computer Society Chapter*** Hello and welcome to the README.md file of the student activity led by me, the Head of Embedded Systems. In this activity, we will explore the fascinating world of embedded systems, which are devices that combine hardware and software to perform specific functions. Embedded systems are everywhere, from smartphones to cars to robots. If you are interested in learning how to design, program, and debug embedded systems, this activity is for you!
+---
 
-<div style="display: flex;align-items:center;">
-  <div><img src="Resources/Roadmap.png" width="100%"/></div>
-</div>
+## Table of Contents
+1. [Beginner Level (Weeks 1–12)](#beginner-level-weeks-112)
+2. [Intermediate Level (Weeks 13–21)](#intermediate-level-weeks-1321)
+3. [Advanced Level (Coming Soon)](#advanced-level-coming-soon)
 
-## Objectives:
+---
 
->The main goal for this road map is to prepare committee members to be able to work as Embedded Software Engineer either in a company or as a freelancer
+## Beginner Level (Weeks 1–12)
+
+The beginner level introduces the fundamentals of programming, Embedded Systems, and GitHub. By the end of this level, you will have a solid foundation in C programming and basic embedded concepts.
+
+| Week | Topics Covered | Description | Link |
+|------|----------------|-------------|------|
+| 1    | Introduction to GitHub | Learn how to use GitHub and publish your own repository. | [Week 1](./Weeks/Week%201) |
+| 2    | Introduction to Embedded Systems | Understand what Embedded Systems are and their applications. | [Week 2](./Weeks/Week%202) |
+| 3    | C Basics | Learn the fundamentals of C programming (variables, data types, operators). | [Week 3](./Weeks/Week%203) |
+| 4    | Conditional & Loop Statements | Master `if`, `else`, `switch`, `for`, `while`, and `do-while` statements. | [Week 4](./Weeks/Week%204) |
+| 5    | Functions | Learn how to write and use functions in C. | [Week 5](./Weeks/Week%205) |
+| 6    | Mini Project - Online Order System | Apply your knowledge to build a simple online order system. | [Week 6](./Weeks/Week%206) |
+| 7    | Pointers (Part 1) | Understand the basics of pointers and memory addresses. | [Week 7](./Weeks/Week%207) |
+| 8    | Pointers (Part 2) | Dive deeper into pointers, pointer arithmetic, and dynamic memory allocation. | [Week 8](./Weeks/Week%208) |
+| 9    | Arrays | Learn how to declare, initialize, and manipulate arrays. | [Week 9](./Weeks/Week%209) |
+| 10   | Strings | Understand string manipulation in C. | [Week 10](./Weeks/Week%2010) |
+| 11   | User-Defined Data Types | Learn about `struct`, `union`, and `enum` in C. | [Week 11](./Weeks/Week%2011) |
+| 12   | Final Project - Payment Application | Build a payment application to consolidate your learning. | [Week 12](./Weeks/Week%2012) |
+
+---
+
+## Intermediate Level (Weeks 13–21)
+
+The intermediate level focuses on advanced programming concepts, data structures, and embedded C fundamentals. By the end of this level, you will have a deeper understanding of system-level programming and embedded development.
+
+| Week | Topics Covered | Description | Link |
+|------|----------------|-------------|------|
+| 13   | Linked List | Learn about singly and doubly linked lists and their applications. | [Week 13](./Weeks/Week%2013) |
+| 14   | Stack | Understand the stack data structure and its implementation in C. | [Week 14](./Weeks/Week%2014) |
+| 15   | Queue | Learn about the queue data structure and its applications. | [Week 15](./Weeks/Week%2015) |
+| 16   | Advanced Project - Real-Life Payment Application | Build a real-life payment application using advanced programming concepts. | [Week 16](./Weeks/Week%2016) |
+| 17   | Preprocessor Directives in C | Explore `#include`, `#define`, `#ifdef`, and other preprocessor directives. | [Week 17](./Weeks/Week%2017) |
+| 18   | Compilation Process | Understand the stages of the C compilation process (preprocessing, compilation, assembly, linking). | [Week 18](./Weeks/Week%2018) |
+| 19   | Booting Sequence and System Startup | Learn about the booting process and system initialization in embedded systems. | [Week 19](./Weeks/Week%2019) |
+| 20   | Startup Code and Linker Script | Explore startup code and how to write linker scripts for embedded systems. | [Week 20](./Weeks/Week%2020) |
+| 21   | Makefile | Learn how to write and use Makefiles for building embedded projects. | [Week 21](./Weeks/Week%2021) |
+
+---
+
+## Advanced Level (Coming Soon)
 
 
-## Levels:
+---
 
+## How to Use This Roadmap
+1. Follow the weekly topics in order.
+2. Complete the goals for each week before moving on to the next.
+3. Experiment with the concepts by building small projects.
+4. Refer to the provided resources and documentation for further learning.
 
-- Beginner : Introduction to Embedded Systems & C Language
-- Intermediate: Data Structure & Embedded C ,In this phase, we will move on to interfacing and writing firmware for 8-bit microcontrollers (MCUs), such as AVR and PIC. These are small and low-cost chips that can control sensors, actuators, displays, and other peripherals. We will learn how to use various communication protocols, such as UART, SPI, and I2C, to connect our MCUs to external devices. We will also learn how to use timers, interrupts, and ADCs to handle timing and analog signals.
-- Advanced: Interfacing,In this phase, we will tackle more complex and powerful MCUs, such as ARM architectures. These are 32-bit processors that can run operating systems and support multitasking and networking. We will learn how to use FreeRTOS, a real-time operating system (RTOS) that can manage multiple tasks and resources efficiently. We will also implement some projects on embedded systems, such as a smart home system or a robotic arm.
+---
 
-## Beginner : Introduction to Embedded Systems & C Language
-<div style="display: flex;align-items:center;">
-  <div><img src="Resources/C_Language.jpg" width="100%"/></div>
-</div>
+## Contributing
+If you have suggestions or improvements for this roadmap, feel free to open an issue or submit a pull request. Contributions are welcome!
 
+---
 
-### Objectives:
-- Learning concepts related to basics of embedded systems 
-- Learning concepts related to basics of programming, such as: compiler, IDE, packages, libraries
-- Learning about the compilation process
-- Learning C programming language Syntax
-- Solving many programming problems using C language
-### Weeks
-- [Week1:](Weeks/Week1.md) Learn about Version Control (GitHub)
-- [Week2:](Weeks/Week2.md) Introduction to Embedded Systems and C Programming
-- [Week3:](Weeks/Week3.md) C basics
-- [**Second Offline Meeting**](Weeks/2nd%20Offline%20Meeting.md)
-- [Week4:](Weeks/Week4.md) Conditional & Loop Statements 
-- [Week5:](Weeks/Week5.md) Mini Project 1
-- [Week6:](Weeks/Week6.md) Functions
-- [Week7:](Weeks/Week7.md) Pointers
-- [**Third Offline Meeting**]
-- [Week8:](Weeks/Week8.md) Arrays
-- [Week9:](Weeks/Week9.md) Mini Project 2
-- [Week10:](Weeks/Week10.md) Strings
-- [**Fourth Offline Meeting**]
-- [Week11:](Weeks/Week11.md) User-Defined Data Types
-
-#### Final Project
-## Intermediate : Data Structure & Embedded C
-<div style="display: flex;align-items:center;">
-  <div><img src="Resources/Data%20Structures%20new.png" width="100%"/></div>
-</div>
-
-### Objectives:
-- Having a good background about Data structures
-- Learning about Stack, Queue and Linked list
-- Being able to customize and implement a new data structure
-- Learning how to use C in Embedded (Embedded C)
-
-### Weeks: 
-- [Week12:](Weeks/Week12.md) C Programming and Embedded Systems 
-- [Week13&14:](Weeks/Week13.md) Offline Session
-- [Week15:](Weeks/Week15.md) Linked List
-- [Week16:](Weeks/Week16.md) Stack Content
-- [Week17:](Weeks/Week17.md) Queue Content
-
-## Advanced : Interfacing
-<div style="display: flex;align-items:center;">
-  <div><img src="Resources/Interfacing%20New.PNG" width="100%"/></div>
-</div>
-
-### Objectives:
-- Studying Atmega32(AVR) and PIC microcontrollers and writing drivers for them
-- Learning about Interrupts and how do they work ?
-- Writing Driver for GPIO and LCD
-- Learning communication protocols (USART, SPI, I2C)
-
-### Weeks:
-- [Week19:](Weeks/Week19.md) How Electricity Works ?
-- [Week20:](Weeks/Week20.md) Interfacing 
-- [Week21:](Weeks/Week21.md) GPIO & LCD
-- [Week22:](Weeks/Week22.md) Interrupt & Shared Data Problem
-- [Week23:](Weeks/Week23.md) UART & SPI
-- [Week24:](Weeks/Week24.md) Stack, Exception handling, C Start up & Linker Script
-
-#### Final Project
+Happy learning! 🚀

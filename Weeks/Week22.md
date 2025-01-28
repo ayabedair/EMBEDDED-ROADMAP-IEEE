@@ -28,6 +28,10 @@ In Week 22, we will dive into the core concepts of embedded systems, including t
 ## 📚 Resources
 
 1. [Embedded Systems Playlist](https://www.youtube.com/playlist?list=PLoiqjtgvXf9e2VJk8GWEXwECPM_7JRwkE)  
-   Watch videos **2 to 5** from this playlist to gain a deeper understanding of embedded system concepts.
+   Watch videos **2 to 5** (#001 -> #004) from this playlist to gain a deeper understanding of embedded system concepts.
+
+## 📝 Task
+
+1. **Check for tasks or quizes**
 
 Make sure to fully understand the content of the videos and take notes on key concepts. If you have any questions, feel free to reach out and ask!

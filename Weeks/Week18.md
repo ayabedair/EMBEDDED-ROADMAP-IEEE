@@ -21,5 +21,7 @@ In Week 18, our focus is on understanding the **Compilation Process** in C progr
 
 1. [Compilation Process Part 1](https://www.youtube.com/watch?v=AX8P0WWkSqU)
 2. [Compilation Process Part 2](https://www.youtube.com/watch?v=t2822gYbGtM&t=1s)
+3. [Cross-Toolchain Compilation Tutorial for IEEE Student Activity](https://www.youtube.com/watch?v=StrqmAbksGo&list=PLR-WDZsV9pQhsJsPn6nETpICM5m3rat5S&index=3)
+4. [Understanding GCC Compilation and Optimization](https://www.youtube.com/watch?v=4ky_WFZ2nqk&list=PLJu3s68C-0EAc1KlrzM-eujWvk3z88ekA)
 
 Feel free to ask if you need clarification or have questions about the topics!

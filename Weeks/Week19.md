@@ -33,5 +33,7 @@ In Week 19, our focus is on understanding the **Booting Sequence** in embedded s
 ## 📚 Resources
 
 1. [Booting Sequence](https://www.youtube.com/watch?v=d9VhSOk4eMc&list=PLoiqjtgvXf9cgQbnEyRpT8FmtAZHUHG2O&index=24)
+2. [IEEE Booting Sequences in Embedded Systems](https://www.youtube.com/watch?v=ZtwIzIbXok8&list=PLJu3s68C-0EAc1KlrzM-eujWvk3z88ekA&index=2)
+3. [Understanding Embedded Systems: From Bare Metal to Bootloaders](https://www.youtube.com/watch?v=9Z95frr9mYM&list=PLR-WDZsV9pQhsJsPn6nETpICM5m3rat5S&index=6)
 
 Make sure to fully understand the content of the videos and practice the tasks to gain hands-on experience with booting sequences, running modes, and the roles of bootloaders and startup code. If you have any questions, feel free to reach out and ask!

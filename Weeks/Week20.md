@@ -22,6 +22,8 @@ In Week 20, we will dive into the **Startup Code**, which is crucial for initial
 
 ## 📚 Resources
 
-1. [Embedded C playlist](https://www.youtube.com/playlist?list=PLR-WDZsV9pQhsJsPn6nETpICM5m3rat5S)
+1. [Understanding Linkers and Startups(Part 1)](https://www.youtube.com/watch?v=HfLvx4yi-Cg&list=PLR-WDZsV9pQhsJsPn6nETpICM5m3rat5S&index=4&t=2s)
+2. [Understanding Linkers and Startups(Part 2)](https://www.youtube.com/watch?v=8nwZlnoN3PE&list=PLR-WDZsV9pQhsJsPn6nETpICM5m3rat5S&index=5)
+3. [Writing Startup Code and Memory Management in Embedded C](https://www.youtube.com/watch?v=KvJSSxjw8sQ&list=PLJu3s68C-0EAc1KlrzM-eujWvk3z88ekA&index=3)
 
 Make sure to fully understand the content of the videos and practice the tasks to gain hands-on experience with startup code and linker scripts. If you have any questions, feel free to reach out and ask!

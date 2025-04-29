@@ -37,6 +37,7 @@ In Week 21, we will explore **Makefiles** in depth. A Makefile is used to contro
 
 ## 📚 Resources
 
-1. [Embedded C playlist](https://www.youtube.com/playlist?list=PLR-WDZsV9pQhsJsPn6nETpICM5m3rat5S)
+1. [Makefile Tutorial](https://www.youtube.com/watch?v=nZ1Gw2Ykog8&list=PLR-WDZsV9pQhsJsPn6nETpICM5m3rat5S&index=1)
+2. [Embedded C Project: From Concept to Execution](https://www.youtube.com/watch?v=Ga9EKKGFQQY&list=PLJu3s68C-0EAc1KlrzM-eujWvk3z88ekA&index=4)
 
 Make sure to fully understand the content of the videos and practice the tasks to gain hands-on experience with startup code and linker scripts. If you have any questions, feel free to reach out and ask!
